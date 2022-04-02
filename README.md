@@ -4,9 +4,9 @@
 
 Submitted by: Ogochukwu Anayor-Achu
 
-Time spent: **#** hours spent in total
+Time spent: 8 hours
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/awesome-burnt-molecule?path=style.css%3A1%3A0)
 
 ## Required Functionality
 
