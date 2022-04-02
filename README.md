@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Ogochukwu Anayor-Achu
 
 Time spent: **#** hours spent in total
 
@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 [gif1](https://recordit.co/apRzf6lksr)
 [gif2](https://recordit.co/HEWb5Ww8vf)
-![](gif3-link-here)
+![video showing my project and the errors I could not correct to push code](https://recordit.co/VtmpVIBtIR)
 ![](gif4-link-here)
 
 ## Reflection Questions
